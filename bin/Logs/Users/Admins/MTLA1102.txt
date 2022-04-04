@@ -1,0 +1,123 @@
+====================================================
+ | DATE: 2022-02-21 07:05:48 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-21 07:05:48 PM
+ |  Admin Login successful
+====================================================
+ | DATE: 2022-02-21 07:06:09 PM
+ |  attempting to removeAppointment
+====================================================
+ | DATE: 2022-02-21 07:06:09 PM
+ | RequestType:  removeAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment Removed Successfully
+====================================================
+ | DATE: 2022-02-21 07:06:25 PM
+ |  attempting to addAppointment
+====================================================
+ | DATE: 2022-02-21 07:06:25 PM
+ | RequestType:  addAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician appointmentCapacity: 2 
+ | Server Response: Success: Appointment MTLM090322 added successfully
+====================================================
+ | DATE: 2022-02-21 07:06:46 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-21 07:06:46 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  patientID: MTLP1103 appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment MTLM090322 Booked Successfully
+====================================================
+ | DATE: 2022-02-21 07:07:20 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-21 07:07:20 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  patientID: MTLP1101 appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment MTLM090322 Booked Successfully
+====================================================
+ | DATE: 2022-02-21 07:07:38 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 07:07:38 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  patientID: MTLP1101 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 07:07:48 PM
+ |  attempting to listAppointmentAvailability
+====================================================
+ | DATE: 2022-02-21 07:07:48 PM
+ | RequestType:  listAppointmentAvailability
+ | RequestParameters:  appointmentType: Physician 
+ | Server Response: MONTREAL Server Physician:
+ (MTLA090322) in the Afternoon of 09/03/2022 Total Capacity: 2 Remaining Capacity: 2
+ (MTLM090322) in the Morning of 09/03/2022 Total Capacity: 2 Remaining Capacity: 0
+
+=====================================
+SHERBROOKE Server Physician:
+ (SHEE110322) in the Evening of 11/03/2022 Total Capacity: 3 Remaining Capacity: 3
+
+=====================================
+QUEBEC Server Physician:
+No Appointments of Type Physician
+
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 07:08:09 PM
+ |  attempting to removeAppointment
+====================================================
+ | DATE: 2022-02-21 07:08:09 PM
+ | RequestType:  removeAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment Removed Successfully
+====================================================
+ | DATE: 2022-02-21 07:08:18 PM
+ |  attempting to listAppointmentAvailability
+====================================================
+ | DATE: 2022-02-21 07:08:18 PM
+ | RequestType:  listAppointmentAvailability
+ | RequestParameters:  appointmentType: Physician 
+ | Server Response: MONTREAL Server Physician:
+ (MTLA090322) in the Afternoon of 09/03/2022 Total Capacity: 2 Remaining Capacity: 0
+
+=====================================
+SHERBROOKE Server Physician:
+ (SHEE110322) in the Evening of 11/03/2022 Total Capacity: 3 Remaining Capacity: 3
+
+=====================================
+QUEBEC Server Physician:
+No Appointments of Type Physician
+
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 07:08:34 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 07:08:34 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  patientID: MTLP1101 
+ | Server Response: Physician:
+MTLA090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 07:08:56 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 07:08:56 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  patientID: MTLP1103 
+ | Server Response: Physician:
+MTLA090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 07:09:02 PM
+ | attempting to Logout

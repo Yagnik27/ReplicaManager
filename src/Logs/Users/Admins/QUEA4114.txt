@@ -1,0 +1,41 @@
+====================================================
+ | DATE: 2022-02-21 03:50:01 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-21 03:50:01 PM
+ |  Admin Login successful
+====================================================
+ | DATE: 2022-02-21 03:50:08 PM
+ |  attempting to listAppointmentAvailability
+====================================================
+ | DATE: 2022-02-21 03:50:08 PM
+ | RequestType:  listAppointmentAvailability
+ | RequestParameters:  appointmentType: Dental 
+ | Server Response: QUEBEC Server Dental:
+ (MTLE150422) in the Evening of 15/04/2022 Total Capacity: 3 Remaining Capacity: 3
+ (QUEA150322) in the Afternoon of 15/03/2022 Total Capacity: 5 Remaining Capacity: 4
+ (MTLM150222) in the Morning of 15/02/2022 Total Capacity: 6 Remaining Capacity: 6
+
+=====================================
+SHERBROOKE Server Dental:
+ (SHEA080422) in the Afternoon of 08/04/2022 Total Capacity: 2 Remaining Capacity: 2
+
+=====================================
+QUEBEC Server Dental:
+ (MTLE150422) in the Evening of 15/04/2022 Total Capacity: 3 Remaining Capacity: 3
+ (QUEA150322) in the Afternoon of 15/03/2022 Total Capacity: 5 Remaining Capacity: 4
+ (MTLM150222) in the Morning of 15/02/2022 Total Capacity: 6 Remaining Capacity: 6
+
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 03:50:45 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 03:50:45 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  patientID: QUEP1235 
+ | Server Response: Booking Schedule Empty For QUEP1235
+====================================================
+ | DATE: 2022-02-21 03:50:50 PM
+ | attempting to Logout

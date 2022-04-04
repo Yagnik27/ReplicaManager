@@ -1,0 +1,18 @@
+module CORBAInterface
+{
+	interface DAMSInterface
+	{
+		//administrator Role
+		string addAppointment(in string AppointmentID,in string AppointmentType, in long capacity);
+		string removeAppointment(in string AppointmentID,in string AppointmentType);
+		string listAppointmentAvailability(in string AppointmentType);
+		
+		//Patient Role
+		string bookAppointment(in string patientID,in string AppointmentID,in string AppointmentType);
+		string getAppointmentSchedule(in string patientID);
+		string cancelAppointment(in string patientID,in string AppointmentID);
+		string swapAppointment(in string patientID,in string oldAppointmentID,in string oldAppointmentType,in string newAppointmentID,in string newAppointmentType);
+
+		oneway void shutdown();
+	};
+};

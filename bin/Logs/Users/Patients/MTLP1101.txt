@@ -1,0 +1,100 @@
+====================================================
+ | DATE: 2022-02-20 03:37:28 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-20 03:37:28 PM
+ |  Patient Login successful
+====================================================
+ | DATE: 2022-02-20 03:37:43 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-20 03:37:43 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment MTLM090322 Booked Successfully
+====================================================
+ | DATE: 2022-02-20 03:37:48 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-20 03:37:48 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-23 04:50:18 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-23 04:50:18 PM
+ |  Patient Login successful
+====================================================
+ | DATE: 2022-02-23 04:50:36 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-23 04:50:36 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment MTLM090322 Booked Successfully
+====================================================
+ | DATE: 2022-02-23 04:50:41 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-23 04:50:41 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-23 05:36:58 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-23 05:36:58 PM
+ |  Patient Login successful
+====================================================
+ | DATE: 2022-02-23 05:37:11 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-23 05:37:11 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment MTLM090322 Booked Successfully
+====================================================
+ | DATE: 2022-02-23 05:37:17 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-23 05:37:17 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-23 05:40:47 PM
+ |  attempting to swapAppointment
+====================================================
+ | DATE: 2022-02-23 05:40:47 PM
+ | RequestType:  swapAppointment
+ | RequestParameters:  oldappointmentID: MTLM090322 oldappointmentType: Physician newAppointmentID: MTLA080522 newAppointmentType: Dental 
+ | Server Response: Success: Appointment MTLM090322 swapped with MTLA080522
+====================================================
+ | DATE: 2022-02-23 05:40:52 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-23 05:40:52 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+
+=====================================
+Dental:
+MTLA080522 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-23 05:41:04 PM
+ |  attempting to Logout

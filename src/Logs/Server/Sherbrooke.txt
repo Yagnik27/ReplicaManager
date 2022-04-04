@@ -1,0 +1,76 @@
+====================================================
+| DATE: 2022-02-14 06:32:35 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-02-14 06:32:35 PM
+ |  UDP Server Started at port 6677
+====================================================
+| DATE: 2022-02-20 03:36:28 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-02-20 03:36:28 PM
+ |  UDP Server Started at port 6677
+====================================================
+| DATE: 2022-02-23 04:49:20 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-02-23 04:49:20 PM
+ |  UDP Server Started at port 6677
+====================================================
+| DATE: 2022-02-23 05:35:03 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-02-23 05:35:03 PM
+ |  UDP Server Started at port 6677
+====================================================
+| DATE: 2022-03-29 03:44:18 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-03-29 03:44:18 PM
+ |  UDP Server Started at port 6677
+====================================================
+| DATE: 2022-03-29 06:06:21 PM
+ | Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+====================================================
+| DATE: 2022-03-29 06:06:21 PM
+ |  Server Shutting down
+====================================================
+| DATE: 2022-03-29 06:25:22 PM
+ | Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+====================================================
+| DATE: 2022-03-29 06:25:22 PM
+ |  Server Shutting down
+====================================================
+| DATE: 2022-03-29 06:27:48 PM
+ | Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+====================================================
+| DATE: 2022-03-29 06:27:48 PM
+ |  Server Shutting down
+====================================================
+| DATE: 2022-03-29 06:37:54 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-03-29 06:40:26 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-03-29 07:05:33 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-03-30 03:25:51 PM
+ |  Server is Up & Running
+====================================================
+| DATE: 2022-03-30 03:30:50 PM
+ |  Server is Up & Running
+====================================================
+DATE: 2022-03-30 03:31:00 PM PatientID: Admin
+ | RequestType:  CORBA addAppointment 
+ | RequestParameters:  appointmentID: SHEE231122 appointmentType: Surgeon appointmentCapacity 25 
+ | ServerResponse: Success: Appointment SHEE231122 added successfully
+====================================================
+| DATE: 2022-03-30 03:32:47 PM
+ |  Server is Up & Running
+====================================================
+DATE: 2022-03-30 03:32:56 PM PatientID: Admin
+ | RequestType:  CORBA addAppointment 
+ | RequestParameters:  appointmentID: SHEE231122 appointmentType: Surgeon appointmentCapacity 25 
+ | ServerResponse: Success: Appointment SHEE231122 added successfully

@@ -1,0 +1,106 @@
+====================================================
+ | DATE: 2022-02-21 03:47:24 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-21 03:47:24 PM
+ |  Patient Login successful
+====================================================
+ | DATE: 2022-02-21 03:47:39 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-21 03:47:39 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment MTLM090322 Booked Successfully
+====================================================
+ | DATE: 2022-02-21 03:47:45 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 03:47:45 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 03:48:09 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-21 03:49:19 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-21 03:49:19 PM
+ |  Patient Login successful
+====================================================
+ | DATE: 2022-02-21 03:49:21 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 03:49:21 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 03:49:39 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-21 03:49:39 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  appointmentID: QUEA150322 appointmentType: Dental 
+ | Server Response: Success: Appointment QUEA150322 Booked Successfully
+====================================================
+ | DATE: 2022-02-21 03:49:44 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 03:49:44 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+Dental:
+QUEA150322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 03:49:54 PM
+ |  attempting to Logout
+====================================================
+ | DATE: 2022-02-21 07:30:51 PM
+ |  login attempt
+====================================================
+ | DATE: 2022-02-21 07:30:51 PM
+ |  Patient Login successful
+====================================================
+ | DATE: 2022-02-21 07:30:54 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 07:30:54 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Booking Schedule Empty For MTLP1103
+====================================================
+ | DATE: 2022-02-21 07:31:12 PM
+ |  attempting to bookAppointment
+====================================================
+ | DATE: 2022-02-21 07:31:12 PM
+ | RequestType:  bookAppointment
+ | RequestParameters:  appointmentID: MTLM090322 appointmentType: Physician 
+ | Server Response: Success: Appointment MTLM090322 Booked Successfully
+====================================================
+ | DATE: 2022-02-21 07:31:17 PM
+ |  attempting to getAppointmentSchedule
+====================================================
+ | DATE: 2022-02-21 07:31:17 PM
+ | RequestType:  getAppointmentSchedule
+ | RequestParameters:  null 
+ | Server Response: Physician:
+MTLM090322 ||
+=====================================
+
+====================================================
+ | DATE: 2022-02-21 07:31:31 PM
+ |  attempting to Logout
